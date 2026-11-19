@@ -1,0 +1,14 @@
+{
+    "name": "y7-door",
+    "description": "Did the cupboard door open?",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "preferredEditor": "pyprj"
+}
